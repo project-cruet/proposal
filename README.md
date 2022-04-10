@@ -22,3 +22,4 @@
 ## Considerations:
 
 - We are not Linux core developers or contributors of liburing. We really welcome any suggestion on performance tuning and we also welcome benchmarks; but we may shutdown any issue if [we think its tone becomes unfriendly for further discussion](https://github.com/axboe/liburing/issues/189). 
+- We focus on x86-64 for now but leave space for other architectures.
