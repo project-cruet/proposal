@@ -16,8 +16,8 @@
 ## Non Goals:
 
 - We do not expect portabiliy for OS other than Linux.
-- We do not provide backward compatibility for acient kernels before 5.10.
-- We do not encourage unsafe hatred. We will try to reduce unsafe blocks only when it can be done without performance compromising. And, [the happiness of coding is much more valuable to us](https://steveklabnik.com/writing/a-sad-day-for-rust)
+- We do not provide backward compatibility for ancient kernels before 5.10.
+- We do not encourage unsafe hatred. We will try to reduce unsafe blocks only when it can be done without performance compromising. And, [the happiness of coding is much more valuable to us](https://steveklabnik.com/writing/a-sad-day-for-rust).
 
 ## Considerations:
 
