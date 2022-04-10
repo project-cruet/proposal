@@ -9,13 +9,13 @@
 - We provide Tokio-alike mod interface (this will be considered only after we complete the core part).
 - We implement modern linux support.
 - We utilize real async IO (via IOUring and Epoll).
-- We try out best to reduce dependencies.
+- We try our best to reduce dependencies.
 - We hope it to be a NUMA-aware job-stealing framework.
 - We thrive to give a rich set of features.
 
 ## Non Goals:
 
-- We do not expect portabiliy for OS other than Linux is not a goal.
+- We do not expect portabiliy for OS other than Linux.
 - We do not provide backward compatibility for acient kernels before 5.10.
 - We do not encourage unsafe hatred. We will try to reduce unsafe blocks only when it can be done without performance compromising. And, [the happiness of coding is much more valuable to us](https://steveklabnik.com/writing/a-sad-day-for-rust)
 
